@@ -1,7 +1,7 @@
 # Portfolio-Project
-### This is a tableau project i made from Netflix datasets such as Netflix IMDB Rating , Netflix Revenue & Subscribers of last 3years which are pivoted etc.
-#### This tableau link gives a group of graphs and some measures  
-https://public.tableau.com/app/profile/reeshabh4340/viz/NetflixProjectEDA2/Story1
+## This is a tableau project I made from Netflix datasets such as Netflix IMDB Rating , Netflix Revenue & Subscribers of last 3years which are pivoted etc.
+#### This tableau link takes you to my Netfliz Dashboard  
+https://public.tableau.com/app/profile/reeshabh4340/viz/RebuiltNetflixProjectEDA1/RebuiltDashboard1?publish=yes
+https://public.tableau.com/app/profile/reeshabh4340/viz/RebuiltNetflixProjectEDA1/RebuiltDashboard2?publish=yes
 
-#### This tableau Link  gives group of dashboards of above graphs 
-https://public.tableau.com/app/profile/reeshabh4340/viz/NetflixProjectEDA1/Story2
+
